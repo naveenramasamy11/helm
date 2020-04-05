@@ -1,8 +1,8 @@
 # Download helm 
 
-`curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 <br/>
-chmod 700 get_helm.sh <br/>
-./get_helm.sh`
+`curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3` <br/>
+`chmod 700 get_helm.sh` <br/>
+`./get_helm.sh`
 
 # git clone the helm repo to setup tiller
 
